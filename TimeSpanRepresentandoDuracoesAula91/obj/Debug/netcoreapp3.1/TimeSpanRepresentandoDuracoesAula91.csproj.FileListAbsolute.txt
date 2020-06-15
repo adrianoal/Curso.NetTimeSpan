@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\bin\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.exe
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\bin\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.deps.json
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\bin\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\bin\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\bin\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.dll
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\bin\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.pdb
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.dll
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.pdb
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\TimeSpanRepresentandoDuracoesAula91\TimeSpanRepresentandoDuracoesAula91\obj\Debug\netcoreapp3.1\TimeSpanRepresentandoDuracoesAula91.genruntimeconfig.cache
